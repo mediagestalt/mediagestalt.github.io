@@ -18,4 +18,4 @@ I'm passionate about Canadian politics and discourse. My [masters thesis](http:/
 ### Web Design
 
 - [2021 DLI National Training](https://dli-training.github.io)
-- [2021 Workshop on Library Use Conference]()
+- [2018 Canadian Data Curation Forum](https://data-curation.github.io)
