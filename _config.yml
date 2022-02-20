@@ -7,7 +7,7 @@ tagline: digital humanist and librarian
 email: sandra.sawchuk@msvu.ca
 description: digital humanist & librarian
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://mediagestalt.com" # the base hostname & protocol for your site
+url: "https://mediagestalt.com" # the base hostname & protocol for your site
 
 social_links:
     twitter: mediagestalt
