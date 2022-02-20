@@ -2,7 +2,7 @@
 layout: page
 ---
 
-I'm an academic librarian in Halifax, Nova Scotia, specializing in Data Services and User Experience. I have a background in educational assessment and pedagogy, and my research interests include data rescue (and reuse) and the philosophy of technology.
+I'm an academic librarian specializing in Data Services and User Experience. I have a background in educational assessment and pedagogy, and my research interests include data rescue (and reuse) and the philosophy of technology.
 
 ### My Research
 
