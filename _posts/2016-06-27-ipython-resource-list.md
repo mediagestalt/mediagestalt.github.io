@@ -3,14 +3,14 @@ layout: post
 title: Jupyter//Python Resource List
 author: Sandra Schwab
 category: resources
-tags: 
-- python 
+tags:
+- python
 - jupyter
 - iPython
 permalink: /jupyter-resource-list/
 ---
 
-This is a list that I will update from time to time with Jupyter//Python resources that I find on the internets. 
+This is a list that I will update from time to time with Jupyter//Python resources that I find on the internets.
 
 Jupyter Notebooks were once called iPython notebooks. Without doing any research, I’m assuming that they’ve changed the name to reflect that the Notebooks can be used with many different languages (and not just Python). That being said, some people (including me) still refer to them as iPython notebooks.
 
@@ -34,11 +34,3 @@ Jupyter Notebooks were once called iPython notebooks. Without doing any research
 
 - My Work
 	* [Jupyter nbviewer](http://nbviewer.jupyter.org/github/mediagestalt/): my work with Jupyter Notebooks
-
-
-
-
-
-
-
-

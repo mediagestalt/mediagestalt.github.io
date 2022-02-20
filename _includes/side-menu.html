@@ -1,0 +1,10 @@
+<!--
+This code generates the side menu items.
+-->
+
+
+<ul class="side-menu">
+  {% for item in site.data.side-menu.links %}
+        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+     {% endfor %}
+</ul>
