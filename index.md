@@ -18,4 +18,5 @@ I'm passionate about Canadian politics and discourse. My [masters thesis](http:/
 ### Web Design
 
 - [2021 DLI National Training](https://dli-training.github.io)
-- [2018 Canadian Data Curation Forum](https://data-curation.github.io)
+- [2020 Data Curation Commons](https://portage-ceg.github.io)
+- [2019 Canadian Data Curation Forum](https://data-curation.github.io)
