@@ -1,0 +1,87 @@
+# CODE BLOG
+#
+# Site settings
+
+title: sandra:sawchuk
+tagline: digital humanist and librarian
+email: sandra.sawchuk@msvu.ca
+description: digital humanist & librarian
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://mediagestalt.com" # the base hostname & protocol for your site
+
+social_links:
+    twitter: mediagestalt
+    github: mediagestalt
+    instagram: mediagestalt
+    linkedin: mediagestalt
+    rss: rss
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: "Sandra Sawchuk"
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink: pretty
+
+include:
+  - _pages
+  - _posts
+
+exclude:
+  - .gitignore
+  - LICENSE.txt
+  - _site/
+  - /_drafts
+
+# Markdown specs
+markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Gems
+#plugins:
+#    - jekyll/scholar
+#    - gist
+#    - jekyll-pandoc
+#    - citeproc
+#    - csl/styles
+
+# Scholar
+#scholar:
+#  style: mla
+#  locale: en
+
+#  sort_by: author,title
+#  order: ascending
+
+#  group_by: none
+#  group_order: ascending
+
+#  source: ./_bibliography
+#  bibliography: active-zotero-library.bib
+#  bibliography_template: "{{reference}}"
+#  relative: "/cited.html"
+
+#  replace_strings: true
+#  join_strings:    true
+
+#  use_raw_bibtex_entry: false
+
+#  details_dir:    bibliography
+#  details_layout: bibtex.html
+#  details_link:   Details
+
+#  query: "@*"
