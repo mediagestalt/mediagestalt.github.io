@@ -2,9 +2,9 @@
 #
 # Site settings
 
-title: sandra:sawchuk
+title: 
 tagline: digital humanist and librarian
-email: sandra.sawchuk@msvu.ca
+email: 
 description: digital humanist & librarian
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mediagestalt.com" # the base hostname & protocol for your site
