@@ -2,7 +2,7 @@
 #
 # Site settings
 
-title: 
+title: mediagestalt
 tagline: digital humanist and librarian
 email: 
 description: digital humanist & librarian
@@ -22,7 +22,7 @@ defaults:
     scope:
       path: ""
     values:
-      author: "Sandra Sawchuk"
+      author: "mediagestalt"
 
 # Permalinks
 #
