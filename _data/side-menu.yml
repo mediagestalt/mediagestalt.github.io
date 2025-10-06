@@ -5,5 +5,5 @@ links:
 #    url: /presentations/
   - title: "Tutorials"
     url: /tutorials/
-  - title: "CV"
+# - title: "CV"
     url: /cv/
