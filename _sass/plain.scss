@@ -1,7 +1,7 @@
 @use 'ext/normalize';
 @use 'syntax';
 
-$linkColor: #0A59B0;
+
 $mobileW: 768px;
 $smallMobileW: 480px;
 $bigScreenW: 1600px;
@@ -28,7 +28,7 @@ a {
 	color: #000;
 	transition: color 0.3s;
 	&:hover {
-		color: $linkColor;
+		color: #0A59B0;
 	}
 }
 
@@ -118,6 +118,7 @@ main {
 	margin-top: 0;
 	li {
 		float: left;
+		background-color: #0A59B0;
 
 		i {
 			font-size: 30px;
@@ -184,11 +185,11 @@ main {
 		font-family: 'Raleway', sans-serif;
 	}
 	a {
-		color: $linkColor;
+		color: #0A59B0;
 		text-decoration: none;
 		transition: border-bottom 0.4s;
 		&:hover {
-			border-bottom: 0.5px solid $linkColor;
+			border-bottom: 0.5px solid #0A59B0;
 		}
 	}
 }
