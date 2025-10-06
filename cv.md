@@ -102,8 +102,8 @@ Sawchuk, S., & Khair, S. (2019, October 17). *[Computational
 reproducibility: A simplified framework for data curators](https://research-reuse.github.io)* \[Workshop\].
 Canadian Data Curation Forum. Hamilton, ON.
 
-Sawchuk, S., & Hubley, A. (2019, June 7). *[Le divorce: Our transition
-from institutional CMS to LibGuides library homepage]({% post_url 2019-05-28-apla-2019 %})* \[Presentation\].
+Sawchuk, S., & Hubley, A. (2019, June 7). *Le divorce: Our transition
+from institutional CMS to LibGuides library homepage* \[Presentation\].
 Atlantic Provinces Library Association Conference, St. John's, NL.
 
 Sawchuk, S. (2019, May 9). *Census geography & CHASS* \[Workshop\]. DLI
