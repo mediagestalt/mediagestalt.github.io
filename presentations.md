@@ -2,6 +2,9 @@
 layout: page
 title: Presentations
 ---
+
+<!--
+
 <ul>
   {% for post in site.categories.presentations %}
     {% if post.url %}
@@ -9,3 +12,5 @@ title: Presentations
     {% endif %}
   {% endfor %}
 </ul>
+
+-->
