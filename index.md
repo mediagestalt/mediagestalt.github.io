@@ -12,11 +12,16 @@ I'm passionate about Canadian politics and discourse. My [masters thesis](http:/
 --->
 ### Writing
 
-- [Computational Reproducibility: A Practical Framework for Data Curators](https://escholarship.umassmed.edu/jeslib/vol10/iss3/7/)
+- [A Scoping Review of Programs of Active Arts Engagement in International Medical Curricula](https://doi.org/10.5334/pme.1506)
+- [Woods, Water, and Meadows: The Formation of Ukrainian-Canadian Identity Through Land and Settlement](https://doi.org/10.15353/acmla.n174.6015)
+- [Supporting Reproducible Research with Active Data Curation](https://doi.org/10.5206/qqsg2445)
+- [Breastfeeding in Canada: predictors of initiation, exclusivity, and continuation from the 2017–2018 Canadian Community Health Survey](https://doi.org/10.1139/apnm-2022-0333)
+- [Computational Reproducibility: A Practical Framework for Data Curators](https://doi.org/10.7191/jeslib.2021.1206)
 - [Microsoft Excel Data Curation Primer](https://hdl.handle.net/11299/202816)
 
 ### Web Design
 
-- [2025 DLI National Training](https://dli-training.github.io)
-- [2020 Data Curation Commons](https://portage-ceg.github.io)
-- [2019 Canadian Data Curation Forum](https://data-curation.github.io)
+- [The Canadian Census Data Discovery Partnership](https://cddp-pddr.ca)
+- [DLI National Training](https://dli-training.github.io)
+- [Data Curation Commons](https://portage-ceg.github.io)
+- [Canadian Data Curation Forum](https://data-curation.github.io)
