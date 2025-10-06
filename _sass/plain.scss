@@ -1,5 +1,5 @@
-@import 'ext/normalize';
-@import 'syntax';
+@use 'ext/normalize';
+@use 'syntax';
 
 $linkColor: #0A59B0;
 $mobileW: 768px;
