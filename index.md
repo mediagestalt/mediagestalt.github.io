@@ -12,10 +12,8 @@ I'm passionate about Canadian politics and discourse. My [masters thesis](http:/
 --->
 ### Writing
 
-- [A Scoping Review of Programs of Active Arts Engagement in International Medical Curricula](https://doi.org/10.5334/pme.1506)
 - [Woods, Water, and Meadows: The Formation of Ukrainian-Canadian Identity Through Land and Settlement](https://doi.org/10.15353/acmla.n174.6015)
 - [Supporting Reproducible Research with Active Data Curation](https://doi.org/10.5206/qqsg2445)
-- [Breastfeeding in Canada: Predictors of initiation, exclusivity, and continuation from the 2017–2018 Canadian Community Health Survey](https://doi.org/10.1139/apnm-2022-0333)
 - [Computational Reproducibility: A Practical Framework for Data Curators](https://doi.org/10.7191/jeslib.2021.1206)
 - [Microsoft Excel Data Curation Primer](https://hdl.handle.net/11299/202816)
 
