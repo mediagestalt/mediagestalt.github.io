@@ -2,7 +2,7 @@
 layout: page
 ---
 
-I'm an academic librarian specializing in Research Data and Assessment. I have a background in educational assessment and critical information literacy, and my research interests include digital and spatial humanities, data rescue (and reuse), and computational reproducibility.
+I'm an academic librarian specializing in Research Data and Assessment. My research interests include digital and spatial humanities, data rescue (and reuse), and computational reproducibility.
 
 
 
