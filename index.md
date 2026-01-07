@@ -16,7 +16,7 @@ I'm passionate about Canadian politics and discourse. My [masters thesis](http:/
 - [Supporting Reproducible Research with Active Data Curation](https://doi.org/10.5206/qqsg2445)
 - [Computational Reproducibility: A Practical Framework for Data Curators](https://doi.org/10.7191/jeslib.2021.1206)
 - [Microsoft Excel Data Curation Primer](https://hdl.handle.net/11299/202816)
-- [Defining Privacy: A Critical Investigation of Canadian Political Discourse](https://doi.org/10.7939/R3WS8HR6V), Master's thesis
+- [Defining Privacy: A Critical Investigation of Canadian Political Discourse](https://doi.org/10.7939/R3WS8HR6V) [Master's thesis]
 
 ### Web Design
 
